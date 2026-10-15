@@ -240,4 +240,4 @@ This repository serves as the official landing page for Battlefield: Bad Company
 **Get the most recent version of Battlefield: Bad Company 2 today!**
 
 ---
-**Last updated:** 2026-10-15 15:22:02 UTC
+**Last updated:** 2026-10-15 19:30:01 UTC
